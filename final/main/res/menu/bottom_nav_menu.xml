@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_music_note"
+        android:title="Ana Sayfa" />
+    <item
+        android:id="@+id/nav_kategoriler"
+        android:icon="@drawable/ic_kategori"
+        android:title="Kategoriler" />
+    <item
+        android:id="@+id/nav_favoriler"
+        android:icon="@drawable/ic_favori_dolu"
+        android:title="Favoriler" />
+    <item
+        android:id="@+id/nav_profil"
+        android:icon="@drawable/ic_profil"
+        android:title="Profil" />
+</menu>
